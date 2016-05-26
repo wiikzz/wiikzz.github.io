@@ -1,0 +1,46 @@
+# Author settings
+name: wiikzz
+title: Android 开发工程师
+address: 中国, 上海
+email: wiikii00@163.com
+github: wiikzz
+gavatar: /assets/img/avatar.jpg
+workHistory:
+- work2:
+  company: 上海****网络科技有限公司
+  location: 中国，上海
+  title: Android 开发工程师
+  started: 2015
+  duration: (2015.8 - 至今)
+  description: 主要负责*******Android客户端的功能开发及版本维护.
+
+- work1:
+  company: 上海**信息技术有限公司
+  location: 中国, 上海
+  title: C嵌入式开发/Android开发工程师
+  started: 2011
+  duration: (2011.6 - 2015.5)
+  description: 负责MTK平台Java产品功能维护/负责Android系统App的定制开发以及App商城系统小工具的开发维护等.
+
+educationHistory:
+- education1:
+  organization: 湖南****
+  degree: 学士
+  major: 软件工程
+  started: 2007
+  duration: (2007.9 - 2011.7)
+  description: 软件工程专业，学习C/C++，Java等语言，并兼修算法，数据结构，数据库等课程。
+languages:
+- language1:
+  name: 中文
+  proficiency: Native
+- language2:
+  name: English
+  proficiency: Limit
+programmingSkills:
+- Java:
+  name: Java/Android
+  percentage: 90%
+- CPP:
+  name: C/C++
+  percentage: 70%
