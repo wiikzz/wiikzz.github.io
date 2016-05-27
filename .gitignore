@@ -36,6 +36,8 @@ proguard/
 *.iws
 .idea/
 
-
-# sites
-
+_site
+.sass-cache
+.idea
+resumecard.iml
+/*.iml
