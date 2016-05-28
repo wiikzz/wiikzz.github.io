@@ -165,6 +165,9 @@ PS C:\Users\wiikii\Documents\wiikzz.github.io>
 ```
 
  -  在域名解析提 供商，添加CNAME解析，如下所示，记录值都写`用户名.github.io`。
+ 
+<img src="/assets/img/github_jekyll_create_blog_jiexi.png" width="500px" />
+
  -  等待一段时间，基本上就可以使用你的域名访问了。
 
 
