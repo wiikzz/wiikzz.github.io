@@ -148,22 +148,6 @@ Configuration file: C:/Users/wiikii/Documents/wiikzz.github.io/_config.yml
 git add origin git@github.com:用户名/用户名.github.io.git
 git push origin master
 ```
----
-layout: post_layout
-title: Github+jekylly创建自己的Blog
-time: 2016年05月28日 星期六
-location: 上海
-pulished: true
-excerpt_separator: "```"
----
- 
-经过一周的努力，终于简单的东拼西凑搞定了[自己的博客][1]；以下我记录的过程，留个记念，也方便各位后来者。
-
-*为什么需要使用github来创建博客？*
-> * GitHub基本上已经成为程序员的天堂。
-> * 我们已经不满足模版式的博客，我们需要创造。
-> * Just无聊了，手痒啦。
-
 
 等待github给你发successfully邮件。使用`用户名.github.io`即可访问到我们的博客啦。
 
