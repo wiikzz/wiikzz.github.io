@@ -1,6 +1,6 @@
 ---
 layout: post_layout
-title: Github+jekylly创建自己的Blog
+title: Github+jekyll创建自己的Blog
 time: 2016年05月28日 星期六
 location: 上海
 pulished: true
